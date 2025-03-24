@@ -22,7 +22,7 @@
 
 - 🔸 **Tùy Chọn Nâng Cao**  
   - Tự động chuyển trang sau khi bypass *(đang thử nghiệm, khuyên là tắt nhập tay)*  
-  - Tự động bypass khi tải trang ( ĐÃ HOÀN THIỆN 90% NÊN BẬT )
+  - Tự động bypass khi tải trang *( ĐÃ HOÀN THIỆN 90% NÊN BẬT )*
 
 
 - 🔸 **Tích Hợp Google Sheets**  
