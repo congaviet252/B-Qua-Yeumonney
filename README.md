@@ -1,33 +1,47 @@
 🌐 All In One Bypass V1 – Tampermonkey Script
 📝 Mô tả (Tiếng Việt)
-All In One Bypass V1 là một Tampermonkey userscript được phát triển nhằm hỗ trợ người dùng bỏ qua bước trung gian/quảng cáo trên trang yeumoney.com, giúp tiết kiệm thời gian thao tác và tối ưu hiệu quả sử dụng.
+All In One Bypass V1 là một Tampermonkey userscript được phát triển nhằm hỗ trợ người dùng bỏ qua các bước trung gian hoặc quảng cáo trên trang web yeumoney.com, giúp tiết kiệm thời gian thao tác và tối ưu hóa trải nghiệm sử dụng.
 
-✅ Các tính năng chính:
-Bypass Tự Động cho Yeumoney.com: Tự động bỏ qua các trang quảng cáo/trung gian.
+✅ Các Tính Năng Chính:
+🔸 Bypass Tự Động cho Yeumoney.com:
+– Tự động bỏ qua các trang quảng cáo hoặc bước trung gian để truy cập nhanh vào nội dung đích.
 
-Giao diện người dùng (UI) tiện lợi:
+🔸 Giao Diện Người Dùng (UI) Tiện Lợi:
+– Thiết kế hiện đại, trực quan, dễ thao tác.
+– Có ô nhập URL để bypass thủ công.
+– Hiển thị URL nhiệm vụ nhận dạng từ hình ảnh (OCR).
+– Nút "Copy Code" giúp sao chép mã dễ dàng chỉ với 1 click.
 
-Thiết kế hiện đại, dễ sử dụng.
+🔸 Nhận Diện URL Tự Động (OCR):
+– Tự động nhận diện và trích xuất URL từ hình ảnh nhiệm vụ trên trang web.
 
-Ô nhập URL bypass thủ công.
+🔸 Tùy Chọn Nâng Cao:
+– Tự động chuyển trang sau khi bypass (đang thử nghiệm).
+– Tự động bypass khi tải trang, giúp tiết kiệm thao tác.
 
-Hiển thị URL nhận diện từ hình ảnh (OCR).
+🔸 Hiển Thị Trạng Thái VPN/Proxy:
+– Kiểm tra địa chỉ IP và trạng thái VPN hoặc Proxy của người dùng.
 
-Nút "Copy Code" sao chép mã nhanh chóng.
+🔸 Tích Hợp Google Sheets:
+– Script có thể tự động lấy URL nhiệm vụ từ Google Sheets để thực hiện nhanh chóng.
 
-Nhận diện URL tự động (OCR): Đọc URL từ hình ảnh nhiệm vụ.
+🔸 Tự Động Điền Google Forms:
+– Tự động điền và gửi biểu mẫu Google Forms có tiêu đề chứa "Điểm danh ngày", hỗ trợ cho các công việc điểm danh định kỳ.
 
-Tùy chọn nâng cao:
+📌 Cách Cài Đặt Script:
+Tải và cài đặt tiện ích mở rộng Tampermonkey:
+➡ Truy cập: https://www.tampermonkey.net/
+➡ Hỗ trợ các trình duyệt: Chrome, Firefox, Edge,…
 
-Tự động chuyển trang (đang thử nghiệm).
+Tạo script mới trên Tampermonkey:
+➡ Mở Tampermonkey → Dashboard → Create a new script...
 
-Tự động bypass khi tải trang.
+Copy mã script từ link sau:
+➡ https://raw.githubusercontent.com/congaviet252/B-Qua-Yeumonney/refs/heads/main/bypassymn.js
 
-Hiển thị trạng thái VPN/Proxy: Kiểm tra IP và trạng thái kết nối.
+Dán toàn bộ mã vào cửa sổ soạn thảo script, sau đó nhấn Ctrl + S để lưu lại.
 
-Tích hợp Google Sheets: Tự động lấy URL nhiệm vụ từ file Sheet.
-
-Tự động điền Google Forms: Đặc biệt dành cho form có tiêu đề “Điểm danh ngày”.
+Truy cập trang yeumoney.com và bắt đầu sử dụng các tính năng tự động của script.
 
 👨‍💻 Tác Giả / Author:
 VmT – All In One Dev
