@@ -1,6 +1,6 @@
 # 🌐 All In One Bypass V1 – Tampermonkey Script
 
-## 📝 Mô tả (Tiếng Việt)
+## 📝 Mô tả 
 
 **All In One Bypass V1** là một **Tampermonkey userscript** được phát triển nhằm hỗ trợ người dùng **bỏ qua các bước trung gian hoặc quảng cáo** trên trang web **[yeumoney.com](https://yeumoney.com)**, giúp tiết kiệm thời gian thao tác và tối ưu hóa trải nghiệm sử dụng.
 
@@ -21,18 +21,15 @@
   Tự động nhận diện và trích xuất URL từ hình ảnh nhiệm vụ.
 
 - 🔸 **Tùy Chọn Nâng Cao**  
-  - Tự động chuyển trang sau khi bypass *(đang thử nghiệm)*  
-  - Tự động bypass khi tải trang
+  - Tự động chuyển trang sau khi bypass *(đang thử nghiệm, khuyên là tắt nhập tay)*  
+  - Tự động bypass khi tải trang ( ĐÃ HOÀN THIỆN 90% NÊN BẬT )
 
-- 🔸 **Hiển Thị Trạng Thái VPN/Proxy**  
-  Kiểm tra địa chỉ IP và trạng thái kết nối mạng.
 
 - 🔸 **Tích Hợp Google Sheets**  
   Tự động lấy URL nhiệm vụ từ file Google Sheet.
 
-- 🔸 **Tự Động Điền Google Forms**  
-  Tự động điền biểu mẫu Google Forms có tiêu đề chứa **"Điểm danh ngày"**.
-
+- 🔸 **LƯU Ý**  
+ - Lỗi lấy link thì xóa bỏ cookie web là hết nhé
 ---
 
 ## 📌 Cách Cài Đặt Script
